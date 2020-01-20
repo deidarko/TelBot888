@@ -32,7 +32,7 @@ namespace _888_tron
     {
 
         string message_text = null;
-        string key = "905583339:AAFuc56TteroTnrcH3I8qPTIPdwDwV9_mQk";
+        string key = "";
         public static TimeSpan Times;
         DateTime newDate;
         static DateTime date = new DateTime(2019, 10, 30, 15, 0, 0); // год - месяц - день - час - минута - секунда
